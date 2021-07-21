@@ -1,0 +1,7 @@
+.landing {
+  height: calc(100vh - var(--ifm-navbar-height));
+}
+
+.feature {
+  background: var(--tonghualabs-color-senary);
+}

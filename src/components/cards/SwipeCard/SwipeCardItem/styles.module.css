@@ -1,0 +1,38 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: space-between;
+  border: 1px solid var(--tonghualabs-color-tertiary);
+  border-radius: 16px;
+  padding: 32px;
+  background-image: url('/img/swipe_card_item_bg.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.container_active {
+  border: 1px solid var(--tonghualabs-color-quaternary);
+  pointer-events: all;
+}
+
+.image {
+  width: 100px;
+}
+
+.title {
+  margin-top: 16px;
+}
+
+.description {
+  margin-top: 16px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 4;
+  -webkit-box-orient: vertical;
+}
+
+.more {
+  color: var(--tonghualabs-color-primary);
+}

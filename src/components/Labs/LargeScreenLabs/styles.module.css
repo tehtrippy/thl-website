@@ -1,0 +1,19 @@
+.description {
+  color: var(--tonghualabs-color-quaternary);
+  padding-top: 40px;
+  margin: auto;
+  width: 80%;
+}
+
+.blockCard {
+  margin-top: 40px;
+}
+
+.labWord {
+  display: inline;
+  font-weight: 700;
+}
+
+.labNoun {
+  display: inline;
+}

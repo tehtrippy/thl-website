@@ -1,0 +1,22 @@
+.button {
+  display: flex;
+  align-items: center;
+  padding: 24px;
+  height: 40px;
+  border: 1px solid var(--tonghualabs-color-quaternary);
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.button > a {
+  color: var(--tonghualabs-color-quaternary);
+  text-decoration: none;
+}
+
+.button:hover > a {
+  color: var(--tonghualabs-color-secondary);
+}
+
+.button:hover {
+  background: var(--tonghualabs-color-quaternary);
+}

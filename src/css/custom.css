@@ -1,0 +1,140 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+:root {
+  --tonghualabs-color-primary: #ab48ff;
+  --tonghualabs-color-secondary: #20222d;
+  --tonghualabs-color-tertiary: #787e7a;
+  --tonghualabs-color-quaternary: #f2f2f2;
+  --tonghualabs-color-quinary: #aaaaaa;
+  --tonghualabs-color-senary: #262835;
+
+  --tonghualabs-body-background-color: var(--tonghualabs-color-secondary);
+  --tonghualabs-default-font-color: var(--tonghualabs-color-quinary);
+  --tonghualabs-font-biggest: 70px;
+  --tonghualabs-font-sub-biggest: 48px;
+  --tonghualabs-font-header: 40px;
+  --tonghualabs-font-sub-header: 32px;
+  --tonghualabs-font-header-description: 24px;
+  --tonghualabs-font-description: 20px;
+  --tonghualabs-font-sub-description: 16px;
+  --tonghualabs-social-link-size: 24px;
+
+  /* custom ifm */
+  --ifm-font-family-base: 'Poppins';
+  --ifm-background-color: var(--tonghualabs-body-background-color);
+  --ifm-navbar-background-color: var(--tonghualabs-body-background-color);
+  --ifm-navbar-shadow: 0 1px 2px 0 var(--tonghualabs-color-tertiary);
+  --ifm-color-primary: var(--tonghualabs-color-primary);
+  --ifm-navbar-link-color: var(--tonghualabs-color-tertiary);
+  --ifm-heading-color: var(--tonghualabs-color-quaternary);
+  --ifm-footer-background-color: var(--ifm-navbar-background-color);
+  --ifm-navbar-height: 80px;
+  --ifm-spacing-horizontal: 32px;
+  --ifm-dropdown-link-color: var(--tonghualabs-default-font-color);
+  --ifm-dropdown-font-weight: 700;
+}
+
+.header-facebook-link:hover,
+.header-instagram-link:hover,
+.header-twitter-link:hover {
+  opacity: 0.6;
+}
+
+.header-facebook-link:before {
+  content: '';
+  width: var(--tonghualabs-social-link-size);
+  height: var(--tonghualabs-social-link-size);
+  display: flex;
+  background: url('/img/social-network/facebook.svg') no-repeat;
+}
+
+.header-instagram-link:before {
+  content: '';
+  width: var(--tonghualabs-social-link-size);
+  height: var(--tonghualabs-social-link-size);
+  display: flex;
+  background: url('/img/social-network/instagram.svg') no-repeat;
+}
+
+.header-twitter-link:before {
+  content: '';
+  width: var(--tonghualabs-social-link-size);
+  height: var(--tonghualabs-social-link-size);
+  display: flex;
+  background: url('/img/social-network/twitter.svg') no-repeat;
+}
+
+.navbar__item.dropdown:hover > .navbar__link {
+  color: var(--tonghualabs-color-primary);
+}
+
+.dropdown__link:hover {
+  color: var(--tonghualabs-color-primary);
+}
+
+.menu__list {
+  font-weight: 700;
+}
+
+.menu__link--sublist:after {
+  filter: invert(1);
+}
+
+.footer {
+  border-top: 1px solid var(--tonghualabs-color-tertiary);
+}
+
+.footer_band {
+  display: flex;
+  flex-direction: column;
+}
+
+.footer_logo {
+  width: 250px;
+}
+
+.footer__links > .footer__col:not(:first-child) {
+  flex-grow: 0.2;
+}
+
+body {
+  color: var(--tonghualabs-default-font-color);
+}
+
+.navbar__brand {
+  height: 3rem;
+}
+
+.navbar__link {
+  font-weight: 700;
+}
+
+.main-wrapper {
+  position: relative;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgb(72, 77, 91);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+html[data-theme='dark'] {
+  --ifm-background-color: var(--tonghualabs-body-background-color);
+}
+
+@media (max-width: 997px) {
+  .menu
+    > ul.menu__list:first-child
+    > li.menu__list-item:nth-last-child(-n + 3) {
+    display: inline-block;
+  }
+  .menu
+    > ul.menu__list:first-child
+    > li.menu__list-item:nth-last-child(-n + 3)
+    > a {
+    padding: var(--ifm-menu-link-padding-vertical)
+      var(--ifm-menu-link-padding-horizontal);
+  }
+}

@@ -1,0 +1,55 @@
+.container {
+  display: flex;
+  align-items: center;
+  position: relative;
+  overflow: hidden;
+}
+
+.introduce {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+  padding-left: 118px;
+}
+
+.headerText {
+  color: rgba(var(--tonghualabs-color-tertiary), 0.8);
+}
+
+.description {
+  margin-top: 14px;
+  color: var(--tonghualabs-color-tertiary);
+  font-weight: 400;
+}
+
+.imgSection {
+  width: 30%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+
+.moonHalf {
+  position: absolute;
+  right: -110px;
+  width: 26%;
+}
+
+.rocket {
+  position: absolute;
+  bottom: -160px;
+  left: 50px;
+}
+
+.jupiter {
+  position: absolute;
+  top: -100px;
+  left: 300px;
+}
+
+.circle_grey {
+  position: absolute;
+  bottom: -40px;
+  right: 100px;
+}

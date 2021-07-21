@@ -1,0 +1,23 @@
+.container {
+  position: relative;
+  height: 200px;
+  overflow: hidden;
+  width: 100%;
+}
+
+.image {
+  height: 100%;
+}
+
+.textContainer {
+  height: 80%;
+  width: 100%;
+  position: absolute;
+  top: 50px;
+  display: flex;
+  justify-content: center;
+}
+
+.text > * {
+  font-size: var(--tonghualabs-font-sub-header);
+}

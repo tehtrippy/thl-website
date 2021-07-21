@@ -1,0 +1,28 @@
+.container {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+}
+
+.textSection {
+  margin-top: 120px;
+}
+
+.cardSection {
+  width: 100%;
+  height: 500px;
+  margin-top: 150px;
+  background-image: url('/img/wave.svg');
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.swipeCard {
+  position: relative;
+  width: 100%;
+  top: -100px;
+}

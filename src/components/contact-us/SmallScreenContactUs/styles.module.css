@@ -1,0 +1,25 @@
+.contactUs {
+  margin: 50px 0px;
+}
+
+.contact {
+  margin: 60px 0px;
+}
+
+.map {
+  width: 100%;
+}
+
+.description {
+  margin-top: 48px;
+  color: var(--tonghualabs-color-quaternary);
+  font-weight: 700;
+}
+
+.description > * {
+  display: inline;
+}
+
+.separator {
+  color: var(--tonghualabs-color-primary);
+}

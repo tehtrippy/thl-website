@@ -1,0 +1,17 @@
+.container {
+  margin: 40px 0px;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.nodeImage {
+  align-self: center;
+  position: absolute;
+  top: -160px;
+}
+
+.bodyText {
+  margin-top: 160px;
+}

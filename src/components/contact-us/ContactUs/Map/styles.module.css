@@ -1,0 +1,7 @@
+.maps {
+  border: 0;
+  height: 320px;
+  width: 480px;
+  max-width: 100%;
+  border-radius: 8px;
+}

@@ -1,0 +1,27 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
+.imgSection {
+  width: 50%;
+}
+
+.image {
+  width: 100%;
+}
+
+.caption {
+  color: var(--tonghualabs-color-quaternary);
+}
+
+.textSection {
+  display: flex;
+  flex-direction: column;
+  width: 50%;
+  justify-content: space-around;
+  margin-right: 30px;
+}

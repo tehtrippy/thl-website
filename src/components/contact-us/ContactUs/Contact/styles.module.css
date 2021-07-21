@@ -1,0 +1,32 @@
+.container {
+  display: flex;
+  align-items: flex-start;
+  flex-direction: column;
+}
+
+.topicText {
+  color: var(--tonghualabs-color-quaternary);
+  font-weight: 700;
+}
+
+.emailText {
+  color: var(--tonghualabs-color-primary);
+}
+
+.phoneText {
+  color: var(--tonghualabs-color-primary);
+}
+
+.addressSection {
+  margin-top: 40px;
+}
+
+.phoneSection {
+  margin-top: 40px;
+  display: flex;
+}
+
+.emailSection {
+  display: flex;
+  margin-top: 16px;
+}

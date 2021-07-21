@@ -1,0 +1,60 @@
+.container {
+  display: flex;
+  flex-direction: column-reverse;
+  text-align: center;
+  padding: 50px 0px;
+  overflow: hidden;
+  position: relative;
+  justify-content: space-between;
+}
+
+.introduce {
+  display: flex;
+  flex-direction: column;
+  margin-top: 24px;
+}
+
+.headerText {
+  color: rgba(var(--tonghualabs-color-tertiary), 0.8);
+}
+
+.description {
+  margin-top: 14px;
+  color: var(--tonghualabs-color-tertiary);
+  font-weight: 400;
+}
+
+.imgSection {
+  display: flex;
+  justify-content: flex-end;
+  overflow: hidden;
+}
+
+.moonHalf {
+  max-width: 300px;
+  max-height: 260px;
+}
+
+.rocket {
+  width: 80px;
+  position: absolute;
+  bottom: 60px;
+  left: 48px;
+  z-index: -1;
+}
+
+.jupiter {
+  width: 50px;
+  position: absolute;
+  bottom: 200px;
+  left: 160px;
+  z-index: -1;
+}
+
+.circle_grey {
+  width: 20px;
+  position: absolute;
+  bottom: 300px;
+  left: 60px;
+  z-index: -1;
+}

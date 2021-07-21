@@ -1,0 +1,28 @@
+.defaultSeparator {
+  margin-top: 40px;
+}
+
+.largeSeparator {
+  margin-top: 60px;
+}
+
+.tonghualabs {
+  display: inline;
+  color: var(--tonghualabs-color-primary);
+  font-weight: 700;
+}
+
+.tonghualabsDescription {
+  display: inline;
+  color: var(--tonghualabs-color-quaternary);
+}
+
+.ourMission {
+  color: var(--tonghualabs-color-primary);
+}
+
+.ourMissionDescription {
+  margin: 20px 0px;
+  font-style: italic;
+  color: var(--tonghualabs-color-quaternary);
+}

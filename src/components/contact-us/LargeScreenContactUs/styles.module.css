@@ -1,0 +1,39 @@
+.contactWrapper {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+  margin-top: 92px;
+  padding: 0 64px;
+}
+
+.headerContent {
+  text-align: center;
+}
+
+.description {
+  margin-top: 48px;
+}
+
+.description > * {
+  display: inline;
+}
+
+.separator {
+  color: var(--tonghualabs-color-primary);
+}
+
+.contactUs {
+  margin: 80px 0px;
+}
+
+.contact {
+  margin-right: 60px;
+}
+
+.wave {
+  position: absolute;
+  bottom: -140px;
+  z-index: -1;
+  width: 100%;
+}

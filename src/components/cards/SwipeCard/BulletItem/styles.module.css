@@ -1,0 +1,23 @@
+.container {
+  border-radius: 100%;
+  width: 0.75rem;
+  height: 0.75rem;
+  background-color: var(--tonghualabs-color-quaternary);
+  margin: 50px 5px 0 5px;
+  cursor: pointer;
+  transform: scale(0.75);
+  opacity: 0.2;
+  transition: transform 100ms cubic-bezier(0.17, 0.67, 0.83, 0.67),
+    opacity 100ms cubic-bezier(0.17, 0.67, 0.83, 0.67);
+}
+
+.container:hover {
+  opacity: 0.9;
+  background-color: var(--tonghualabs-color-tertiary);
+}
+
+.containerActive {
+  opacity: 1;
+  transform: scale(1);
+  background-color: var(--tonghualabs-color-tertiary);
+}

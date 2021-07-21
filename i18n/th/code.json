@@ -1,0 +1,226 @@
+{
+  "home.opengraph.description": {
+    "message": "An Innovation Lab based in Bangkok, Thailand. We nurture and experiment with cutting-edge technology.",
+    "description": "home opengraph description"
+  },
+  "projects.opengraph.description": {
+    "message": "Exploring projects that we are experimenting with and browse more to discover your new adventure!",
+    "description": "projects opengraph description"
+  },
+  "services.opengraph.description": {
+    "message": "Fascinated with cutting-edge technology? Discover our services and see how we can connect the dot together.",
+    "description": "services opengraph description"
+  },
+  "about.opengraph.description": {
+    "message": "Tong Hua Labs is an Innovation and Creative Lab under Tong Hua Holding Public Company Limited. Our lab was established to serve as a playground for experimenting with emerging technologies.",
+    "description": "about opengraph description"
+  },
+  "contactus.opengraph.description": {
+    "message": "Stay connected. Contact us about anything related to our labs. We'll do our best to get back to you as soon as possible.",
+    "description": "contact us opengraph description"
+  },
+  "home.introduction.title": {
+    "message": "Tong Hua Labs",
+    "description": "introduction title"
+  },
+  "home.introduction.description": {
+    "message": "Driving digital innovation through a culture of experimentation",
+    "description": "introduction description"
+  },
+  "feature.title": {
+    "message": "What We Do",
+    "description": "feature title"
+  },
+  "feature.description": {
+    "message": "We build experiments, measure results, and learn from our successes and failures. We are not afraid to fail. We fail fast, fail often, but always fail forward.",
+    "description": "feature description"
+  },
+  "feature.caption": {
+    "message": "Without experimentation, there is no innovation.",
+    "description": "feature caption"
+  },
+  "our.labs.title": {
+    "message": "Our Labs",
+    "description": "our labs title"
+  },
+  "our.labs.description": {
+    "message": "Explore our various themed labs below:",
+    "description": "our labs description"
+  },
+  "lab.word": {
+    "message": "Lab",
+    "description": "lab word"
+  },
+  "lab.noun": {
+    "message": " /læb/ (n.)",
+    "description": "lab noun"
+  },
+  "lab.word.meaning": {
+    "message": "A place where the magic happens.",
+    "description": "lab word meaning"
+  },
+  "labs.first.title": {
+    "message": "Media Lab",
+    "description": "labs first title"
+  },
+  "labs.first.description": {
+    "message": "Research and development of emerging technologies that will shape next-generation media.",
+    "description": "labs first description"
+  },
+  "labs.second.title": {
+    "message": "Web3 Lab",
+    "description": "labs second title"
+  },
+  "labs.second.description": {
+    "message": "Research, develop and invest in decentralized technology that will drive the future of the internet.",
+    "description": "labs second description"
+  },
+  "projects.title": {
+    "message": "Projects",
+    "description": "projects title"
+  },
+  "projects.first.title": {
+    "message": "MangoFox",
+    "description": "projects first title"
+  },
+  "projects.first.description": {
+    "message": "Coming Soon",
+    "description": "projects first description"
+  },
+  "projects.second.title": {
+    "message": "Halabala",
+    "description": "projects second title"
+  },
+  "projects.second.description": {
+    "message": "Coming Soon",
+    "description": "projects second description"
+  },
+  "projects.third.title": {
+    "message": "Station 101",
+    "description": "projects third title"
+  },
+  "projects.third.description": {
+    "message": "Coming Soon",
+    "description": "projects third description"
+  },
+  "services.title": {
+    "message": "Our Services",
+    "description": "services title"
+  },
+  "services.first.title": {
+    "message": "Investment",
+    "description": "services first title"
+  },
+  "services.first.description": {
+    "message": "We invest in, nurture and commercialize cutting-edge technology startups — mainly Web3-related projects for now. Startups of all stages and sizes are welcome to apply.",
+    "description": "services first description"
+  },
+  "services.first.buttons.title": {
+    "message": "Apply For Investment",
+    "description": "services first buttons title"
+  },
+  "services.second.title": {
+    "message": "Sponsorships",
+    "description": "sevices second title"
+  },
+  "services.second.description": {
+    "message": "Are you working on an open-source project? At Tong Hua Labs, we depend on open source every day. To give back to the awesome open source community, we are sponsoring projects that we believe will make a difference. Get in touch and let us know what you're building!",
+    "description": "services second description"
+  },
+  "services.second.buttons.title": {
+    "message": "Apply For Sponsorship",
+    "description": "sevices second buttons title"
+  },
+  "services.third.title": {
+    "message": "Collaboration",
+    "description": "sevices third title"
+  },
+  "services.third.description": {
+    "message": "We are actively seeking new partnership opportunities and welcome conversations regarding collaboration. Let's grab a coffee and see what we can build together!",
+    "description": "services third description"
+  },
+  "services.third.buttons.title": {
+    "message": "Grab a coffee!",
+    "description": "sevices third buttons title"
+  },
+  "services.fourth.title": {
+    "message": "Public Relations and Advertising",
+    "description": "sevices fourth title"
+  },
+  "services.fourth.description": {
+    "message": "Let your voice be heard by the right audience through our distribution channels and partners. ",
+    "description": "services fourth description"
+  },
+  "services.fourth.buttons.title": {
+    "message": "Contact Us!",
+    "description": "sevices fourth buttons title"
+  },
+  "about.title": {
+    "message": "About",
+    "description": "about title"
+  },
+  "about.tonghualabs.title": {
+    "message": "Tong Hua Labs",
+    "description": "about tong hua labs title"
+  },
+  "about.tonghualabs.description": {
+    "message": " is an Innovation and Creativity Lab under Tong Hua Holding Public Company Limited. We are located on the historic Chareonkrung road in Bangkok, Thailand — The first modern road built in Thailand. Our lab was established to serve as a playground for experimenting with emerging technologies to see how they can be applied to solve real-world problems.",
+    "description": "about tong hua labs description"
+  },
+  "about.our.mission.title": {
+    "message": "Our Mission",
+    "description": "about our mission title"
+  },
+  "about.our.mission.description": {
+    "message": "TO NURTURE INNOVATION AND CUTTING-EDGE TECHNOLOGY",
+    "description": "about our mission description"
+  },
+  "about.our.mission.sub.description": {
+    "message": "Our company traces its roots back to 1960 when the Internet wasn't a thing. Throughout the years, we have experienced the development of many life-changing technologies and the downfall of many. We started as a Chinese Newspaper Company and expanded into a diversified business group active in Media, Technology, and Finance. Now, we are committed to using the extensive knowledge and cross-industry experience we've accumulated over the last half-decade in fostering the next big thing that matters.",
+    "description": "about our mission sub description"
+  },
+  "contact.title": {
+    "message": "Contact Us",
+    "description": "contact title"
+  },
+  "contact.description.part.one": {
+    "message": "Contact us about",
+    "description": "contact description part one"
+  },
+  "contact.description.part.two": {
+    "message": "related to our labs",
+    "description": "contact description part two"
+  },
+  "contact.description.separator": {
+    "message": " anything ",
+    "description": "contact description separator"
+  },
+  "contact.sub.description": {
+    "message": "We'll do our best to get back to you as soon as possible.",
+    "description": "contact sub description"
+  },
+  "contact.working.hours.title": {
+    "message": "Working Hours",
+    "description": "contact working hours title"
+  },
+  "contact.working.hours.description": {
+    "message": "08.30 am – 5.30 pm / Monday - Friday",
+    "description": "contact working hours description"
+  },
+  "contact.address.title": {
+    "message": "Address",
+    "description": "contact address title"
+  },
+  "contact.address.description": {
+    "message": "877-881 Charoen Krung Rd, Talat Noi, Samphanthawong, Bangkok 10100, Thailand",
+    "description": "contact address description"
+  },
+  "contact.phone": {
+    "message": "0-2236-0143-44",
+    "description": "contact phone"
+  },
+  "contact.email": {
+    "message": "hello@tonghualabs.com",
+    "description": "contact email"
+  }
+}

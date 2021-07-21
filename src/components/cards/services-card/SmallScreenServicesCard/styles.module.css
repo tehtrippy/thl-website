@@ -1,0 +1,9 @@
+.description {
+  margin-top: 14px;
+  color: var(--tonghualabs-color-quaternary);
+}
+
+.image {
+  width: 120px;
+  height: 120px;
+}

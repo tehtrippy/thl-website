@@ -1,0 +1,21 @@
+.container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.textSection {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  flex-direction: column;
+  width: 60%;
+}
+
+.topic {
+  color: var(--tonghualabs-color-primary);
+}
+
+.button {
+  margin-top: 40px;
+}
