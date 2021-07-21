@@ -1,13 +1,13 @@
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'Tong Hua Labs',
-  url: 'https://tonghualabs.com',
+  url: 'https://tehtrippy.github.io/thl-website/',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'tonghualabs',
-  projectName: 'tonghualabs-website',
+  organizationName: 'tehtrippy',
+  projectName: 'thl-website',
   trailingSlash: false,
   themeConfig: {
     colorMode: {
