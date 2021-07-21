@@ -2,7 +2,7 @@
 module.exports = {
   title: 'Tong Hua Labs',
   url: 'https://tehtrippy.github.io',
-  baseUrl: '/',
+  baseUrl: '/thl-website/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
